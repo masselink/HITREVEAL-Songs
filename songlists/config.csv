@@ -1,6 +1,7 @@
-Name, technical name, country, github raw content URL
-80's Hits, 80s_Hits, NL, https://raw.githubusercontent.com/masselink/HITREVEAL/refs/heads/main/songlists/80s_hits.csv
-Classic Rock, classic_rock, US, https://raw.githubusercontent.com/masselink/HITREVEAL/refs/heads/main/songlists/classic_rock.csv
+name, country, github raw content URL, description
+80's Hits, NL, https://raw.githubusercontent.com/masselink/HITREVEAL/refs/heads/main/songlists/80s_hits,"Description tekst by Harold"
+Classic Rock, US, https://raw.githubusercontent.com/masselink/HITREVEAL/refs/heads/main/songlists/classic_rock.csv,"Classic Rock game by Piet"
+
 
 
 
