@@ -1,4 +1,5 @@
-Name, technical name, github raw content URL
-80's Hits, 80s_Hits, https://raw.githubusercontent.com/masselink/HITREVEAL/refs/heads/main/songlists/80s_hits.csv
-Classic Rock, classic_rock, https://raw.githubusercontent.com/masselink/HITREVEAL/refs/heads/main/songlists/classic_rock.csv
+Name, technical name, flag, github raw content URL
+80's Hits, 80s_Hits, nl, https://raw.githubusercontent.com/masselink/HITREVEAL/refs/heads/main/songlists/80s_hits.csv
+Classic Rock, classic_rock, us, https://raw.githubusercontent.com/masselink/HITREVEAL/refs/heads/main/songlists/classic_rock.csv
+
 
