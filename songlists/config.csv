@@ -1,4 +1,5 @@
 name,country,hitstercode,github_link,description
-"original",nl,NL01,https://raw.githubusercontent.com/masselink/HITREVEAL/refs/heads/main/songlists/80s_hits,"Description tekst by Harold"
+"original",nl,NL01,https://raw.githubusercontent.com/masselink/HITREVEAL/refs/heads/main/songlists/80s_hits.csv,"Description tekst by Harold"
 Classic Rock,us,,https://raw.githubusercontent.com/masselink/HITREVEAL/refs/heads/main/songlists/classic_rock.csv,"Classic Rock game by Piet"
+
 
