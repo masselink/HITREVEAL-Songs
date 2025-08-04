@@ -6,3 +6,5 @@ I'm not a developer, this is a vibe coded project. In eed help translating all g
 https://hitreveal.collectingvibes.com
 
 The application is vibe-coded as an experimental project. There is no guarantee that everything works correctly or that it does not cause errors. Use this app at your own risk.
+
+Code in the: https://github.com/masselink/HITREVEAL repository
