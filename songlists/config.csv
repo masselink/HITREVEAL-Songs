@@ -1,5 +1,6 @@
 name,country,gametype1,gametype2,spotify,youtube,hitstercode,github_link,description
 "Original NL",nl,1,1,0,1,NL01,https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/original_nl01.csv,"Added by RoofSIX"
 Original DE,de,1,1,0,1,DE01?,https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/germany_de01.csv,"untested! original: https://github.com/andygruber/songseeker"
-Ultimate 00s Party | YTMPL,nl,0,1,0,1,,https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/Ultimate 00s Party-YTMPL.csv,"Created from playlist: https://music.youtube.com/playlist?list=RDCLAK5uy_lAk3ThIyciBwAQpwOLa4s6m3DhlOUD0bM"
+Ultimate 00s Party | YTMPL,nl,0,1,0,1,,https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/Ultimate_00s_Party_YTMPL.csv,"Created from playlist: https://music.youtube.com/playlist?list=RDCLAK5uy_lAk3ThIyciBwAQpwOLa4s6m3DhlOUD0bM"
+
 
