@@ -1,9 +1,10 @@
 name;country;competition;hitster;spotify;youtube;hitstercode;github_link;description
 Hitster Original NL;nl;1;1;0;1;NL01;https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/original_nl01.csv;Added by San Masselink
 Hitster Original DE;de;1;1;0;1;DE01;https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/germany_de01.csv;untested! original: https://github.com/andygruber/songseeker
-200 Greatest Rock & Pop Songs;;1;0;0;1;;https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/200_greatest_rock_and_pop_songs.csv;Added by RoofSIX
+greatest Rock & Pop Songs;;1;0;0;1;;https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/200_greatest_rock_and_pop_songs.csv;Added by RoofSIX
 250 Nederlandstalige hits;nl;1;0;0;1;;https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/250_nederlandstalige_hits;Added by RoofSIX
 Classic POP Party;;1;0;0;1;;https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/classic_pop_party.csv;Added by RoofSIX
 HIPHOP Essentials;;1;0;0;1;;https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/hiphop_essentials_00s;Added by RoofSIX
 Top 100 Germany 2025;de;1;0;0;1;;https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/top100_germany_2025;Added by RoofSIX
 Top 1000 NPO2;nl;1;0;0;1;;https://raw.githubusercontent.com/masselink/HITREVEAL-songs/refs/heads/main/songlists/top_1000_npo1.csv;Added by RoofSIX
+
