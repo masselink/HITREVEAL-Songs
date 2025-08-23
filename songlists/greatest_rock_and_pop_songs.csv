@@ -4,9 +4,7 @@ id;youtube_url;artist;title;year
 3;https://music.youtube.com/watch?v=dJ6fjGS1lRg;Talking Heads;Psycho Killer;1977
 4;https://music.youtube.com/watch?v=UKQpRgxyyqo;The Beatles;In My Life;1965
 5;https://music.youtube.com/watch?v=4AKbUm8GrbM;The Who;Pinball Wizard;1969
-6;https://music.youtube.com/watch?v=axb2sHpGwHQ;Unknown Artist;Private video;2012
 7;https://music.youtube.com/watch?v=EzgGTTtR0kc;Metallica;One;1988
-8;https://music.youtube.com/watch?v=geHLdg_VNww;Unknown Artist;Private video;2012
 9;https://music.youtube.com/watch?v=xCChxBSRo1Y;Poison;Talk Dirty To Me;1986
 10;https://music.youtube.com/watch?v=juhBVAnLkHk;Poison;Ride The Wind;1990
 11;https://music.youtube.com/watch?v=Vppbdf-qtGU;ZZ Top;La Grange;1973
@@ -49,7 +47,6 @@ id;youtube_url;artist;title;year
 48;https://music.youtube.com/watch?v=h3ADektyDhM;The Ramones;My Sharona;2012
 49;https://music.youtube.com/watch?v=bkysjcs5vFU;dio;holy diver;1983
 50;https://music.youtube.com/watch?v=jACrmwTsi08;Def Leppard;Foolin;1983
-51;https://music.youtube.com/watch?v=cOVzXYEU3Bk;Unknown Artist;Private video;2012
 52;https://music.youtube.com/watch?v=Od7PG4CZ3SM;Nile Rodgers;Its All In Your Hands;1983
 53;https://music.youtube.com/watch?v=4KUL9-eNXzQ;Chic;le freak - 1978;2012
 54;https://music.youtube.com/watch?v=_XOY7lsBVpo;Let's Groove;Earth wind and fire -;2012
@@ -69,7 +66,6 @@ id;youtube_url;artist;title;year
 68;https://music.youtube.com/watch?v=sfR_HWMzgyc;Kashmir;Led Zeppelin;2012
 69;https://music.youtube.com/watch?v=88TimO61Vl4;Jet;Put Your Money Where Your Mouth Is;2006
 70;https://music.youtube.com/watch?v=e8nQPeR5hac;Jet;Shine On (VIDEO) album edit audio version;2012
-71;https://music.youtube.com/watch?v=IDZqmF3zS04;Unknown Artist;Private video;2012
 72;https://music.youtube.com/watch?v=9se36URAe4E;James Blunt;I'll Take Everything (Video);2012
 73;https://music.youtube.com/watch?v=COsVgbAJ8B8;Jimi Hendrix;Bleeding Heart (Video);2012
 74;https://music.youtube.com/watch?v=slldMEPvUqA;The Whispers;And the Beat Goes On;1979
@@ -96,7 +92,6 @@ id;youtube_url;artist;title;year
 95;https://music.youtube.com/watch?v=Q29YR5-t3gg;Cat Stevens;Father and Son O riginal;2012
 96;https://music.youtube.com/watch?v=Orv_F2HV4gk;Fast car;Tracy Chapman;2012
 97;https://music.youtube.com/watch?v=O1-4u9W-bns;Jason Mraz;I Won't Give Up;2012
-98;https://music.youtube.com/watch?v=SSGdUT985P0;Unknown Artist;Private video;2012
 99;https://music.youtube.com/watch?v=tH2w6Oxx0kQ;Kansas;Dust in the Wind;1977
 100;https://music.youtube.com/watch?v=sYffFEIAzdE;Oasis;Wonderwall lyrics;2012
 101;https://music.youtube.com/watch?v=MZjAantupsA;Cameo;Word Up;1986
@@ -106,7 +101,6 @@ id;youtube_url;artist;title;year
 105;https://music.youtube.com/watch?v=BvsX03LOMhI;davyjones63;the sound of silence lyrics;2012
 106;https://music.youtube.com/watch?v=y2kEx5BLoC4;Tracy Chapman;Give me one reason;1995
 107;https://music.youtube.com/watch?v=2jH74e3Qo9k;Arlorian Sloane;Sultans of Swing;2012
-108;https://music.youtube.com/watch?v=N4d7Wp9kKjA;Unknown Artist;Private video;2012
 109;https://music.youtube.com/watch?v=mHPgco6GQk8;Roy Orbison;Oh Pretty Woman;1962
 110;https://music.youtube.com/watch?v=AR8D2yqgQ1U;Spandau Ballet;True;1983
 111;https://music.youtube.com/watch?v=6OrtLxsqSic;Fleetwood Mac;I'm So Afraid - The Dance - 1997;2012
@@ -125,10 +119,8 @@ id;youtube_url;artist;title;year
 124;https://music.youtube.com/watch?v=lwlogyj7nFE;Red Hot Chili Peppers;Under The Bridge;1991
 125;https://music.youtube.com/watch?v=gj0Rz-uP4Mk;Elvis Presley;Jailhouse Rock;1997
 126;https://music.youtube.com/watch?v=Zi_XLOBDo_Y;Michael Jackson;Billie Jean;1982
-127;https://music.youtube.com/watch?v=KBX2dySWGew;Unknown Artist;Private video;2013
 128;https://music.youtube.com/watch?v=WEFFFgz4skA;Stereophonics;Violins and Tambourines - Film;2013
 129;https://music.youtube.com/watch?v=zvCBSSwgtg4;The Lumineers;Ho Hey;2012
-130;https://music.youtube.com/watch?v=UHqQGzt9YuM;Unknown Artist;Private video;2013
 131;https://music.youtube.com/watch?v=VbagcoetpGw;Stereophonics;In A Moment;2013
 132;https://music.youtube.com/watch?v=v2AC41dglnM;AC/DC;Thunderstruck;1990
 133;https://music.youtube.com/watch?v=hHRNSeuvzlM;Aerosmith lyrics;Dream On;2013
@@ -136,7 +128,6 @@ id;youtube_url;artist;title;year
 135;https://music.youtube.com/watch?v=bolZLMHxy6c;Stereophonics;Could You Be The One?;2009
 136;https://music.youtube.com/watch?v=Bj1AesMfIf8;Beatles;Here Comes The Sun;1969
 137;https://music.youtube.com/watch?v=si9FLVOK8nQ;Stereophonics;I Wouldn't Believe Your Radio;1999
-138;https://music.youtube.com/watch?v=OZ5q2ErFdiY;Unknown Artist;Private video;2013
 139;https://music.youtube.com/watch?v=dh3bleXWaCk;Funkadelic;Maggot Brain;1971
 140;https://music.youtube.com/watch?v=CIJTXSApX7s;Two Door Cinema Club;Do You Want It All;2010
 141;https://music.youtube.com/watch?v=wC67vNY9Rcg;Time;Pink Floyd  1973, click more below.;2013
